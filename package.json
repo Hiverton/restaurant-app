@@ -25,7 +25,7 @@
     "admin-lte": "2.3.11",
     "codelyzer": "2.0.0",
     "core-js": "2.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "font-awesome": "4.7.0",
     "intl": "1.2.5",
     "jasmine-core": "2.5.2",
